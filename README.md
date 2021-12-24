@@ -19,5 +19,5 @@ The challenge is not so easy given that there are many different type of biases 
 # Harvard-University-Data-Science-MovieLens Project Submission - This project has three files:
 
 1. A script in R format that generates your predicted movie ratings and RMSE score.
-2. A report in R PDF document.
+2. A report in R Markdown document. (Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents)
 3. A report in pdf format which is generated from R Markdown document.
