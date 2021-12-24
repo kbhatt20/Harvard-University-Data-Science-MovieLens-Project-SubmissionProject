@@ -21,5 +21,3 @@ The challenge is not so easy given that there are many different type of biases 
 1. A script in R format that generates your predicted movie ratings and RMSE score.
 2. A report in R PDF document.
 3. A report in pdf format which is generated from R Markdown document.
- 
-option and then try tinytex::reinstall_tinytex(). You will able to knit the Rmd file into pdf document as described.
